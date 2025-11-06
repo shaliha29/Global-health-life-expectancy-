@@ -44,10 +44,11 @@ The analysis focuses on understanding:
 | **Schooling** | Average number of years of schooling |
 
 ### 🧮 Derived / Engineered Columns
-| **Attribute** | **Description** |
-| mortality ratio | under-five deaths/Adult Mortality |
-| Health Efficiency | Life expectancy/GDP |
-| Vaccination_Coverage | mean of Polio and Diphtheria |
+| Derived Column | Description | Formula |
+|----------------|-------------|---------|
+| **mortality_ratio** | Measures the relative child mortality compared to adult mortality | under-five deaths / Adult Mortality |
+| **Health_Efficiency** | Indicates how effectively a country's GDP contributes to life expectancy | Life expectancy / GDP |
+| **Vaccination_Coverage** | Average immunization coverage combining Polio and Diphtheria | (Polio + Diphtheria) / 2 |
 
 ---
 
