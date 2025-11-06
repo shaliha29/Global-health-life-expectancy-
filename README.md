@@ -24,7 +24,7 @@ The analysis focuses on understanding:
 ---
 
 ## 📊 Data Visualization & Analysis
-- **Distribution Analysis:** KDE plots for variables like BMI, Alcohol, and GDP.  
+- **Distribution Analysis:** KDE plots for variables like Alcohol, and GDP.  
 - **Comparative Analysis:** Bar charts comparing vaccination rates (Developed vs Developing).  
 - **Correlation Analysis:** Heatmap to identify relationships among variables.  
 - **Trend Analysis:** Line plots showing life expectancy changes over years.  
@@ -56,12 +56,12 @@ Although progress is global, developing nations still need stronger public healt
 ---
 
 ## 📁 Project Structure
-global-health-life-expectancy/
-│
-├── global_lifeexpectancy.ipynb # Main notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies 
-└── data/ # Dataset folder 
+global-health-life-expectancy
+
+-  global_lifeexpectancy.ipynb # Main notebook
+-  README.md # Project documentation
+-  requirements.txt # Python dependencies 
+-  data # Dataset folder 
 
 ---
 
