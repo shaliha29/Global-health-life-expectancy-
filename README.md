@@ -97,9 +97,8 @@ Although progress is global, developing nations like **Sierra Leone,Central Afri
 global-health-life-expectancy
 
 -  global_lifeexpectancy.ipynb # Main notebook
--  README.md # Project documentation
--  requirements.txt # Python dependencies 
--  data # Dataset folder 
+-  README.md # Project documentation 
+-  Life Expectancy Data # Dataset file
 
 ---
 
